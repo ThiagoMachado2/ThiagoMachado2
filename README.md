@@ -10,9 +10,13 @@
 
 <!--Intro start-->
 💡 **Passionate about Backend Development** | **Java Enthusiast** | **Problem Solver**  
+
 🎓 **Computer Engineering Student @ UNIFAN (Centro Universitário Nobre)**  
+
 🔭 Currently working with **Java, Spring Boot, PostgreSQL, MySQL, C**  
+
 🌱 Constantly learning **Clean Architecture, Microservices, Design Patterns, and always open to exploring new languages and technologies**
+
 📫 Connect with me on **thiago.a.machado@gmail.com** 
 
 
