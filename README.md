@@ -17,7 +17,7 @@
 
 🌱 Constantly learning **Clean Architecture, Microservices, Design Patterns, and always open to exploring new languages and technologies**
 
-📫 Connect with me on **thiago.a.machado@gmail.com** 
+📫 Connect with me on **thiago.a.machado002@gmail.com** 
 
 
 <!--- stats & Trophy (start) -->
